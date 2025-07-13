@@ -398,3 +398,16 @@ Command: [a832f84c2fe6cdb8f383712538c683cc, findElement {using=xpath, value=//in
 Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 138.0.7204.94 (545025748884..., userDataDir: C:\Users\g\AppData\Local\Te...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59606}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59606/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
 Session ID: a832f84c2fe6cdb8f383712538c683cc
 02:17:55.595 [main] INFO  StepDef - ************Close the entire browser***********
+02:39:05.616 [main] INFO  StepDef - ************Open the Browser***********
+02:39:06.777 [main] INFO  StepDef - ************Maximize the Browser***********
+02:39:06.952 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+02:39:10.344 [main] INFO  StepDef - ************Enter the Username***********
+02:39:11.028 [main] INFO  StepDef - ************Enter the password***********
+02:39:11.101 [main] INFO  StepDef - ************Click on login button***********
+02:39:17.456 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+02:39:17.456 [main] INFO  StepDef - ************Title Matched***********
+02:39:17.472 [main] INFO  StepDef - ************Click on logout button***********
+02:39:18.685 [main] INFO  StepDef - ************Verify the login page title***********
+02:39:18.696 [main] INFO  StepDef - ************Title Matched***********
+02:39:18.698 [main] INFO  StepDef - ************Close the tab***********
+02:39:18.952 [main] INFO  StepDef - ************Close the entire browser***********

@@ -17,9 +17,9 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 		dryRun=false,
 		monochrome=true,
 		
-		tags="@Smoke",
+		//tags="@Smoke",
 		//tags="@DDT",
-		//tags="@e2e",                       //To run only Sanity tests
+		tags="@e2e",                       //To run only Sanity tests
 		//tags="@Sanity or @Regression",        //To run Sanity and Regression both tests
 		//tags="@Sanity and @Regression",       //To run only tests which have both Sanity and Regression tags
 		//tags="@Regression and not @Sanity",   //To run only tests which have both tags Sanity tests but wants to run only sanity tests
