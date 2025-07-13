@@ -1,0 +1,614 @@
+16:46:48.159 [main] INFO  StepDef - ************Open the Browser***********
+16:46:49.296 [main] INFO  StepDef - ************Maximize the Browser***********
+16:46:49.395 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+16:46:52.606 [main] INFO  StepDef - ************Enter the Username***********
+16:46:53.120 [main] INFO  StepDef - ************Enter the password***********
+16:46:53.281 [main] INFO  StepDef - ************Click on login button***********
+16:46:58.408 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+16:46:58.408 [main] INFO  StepDef - ************Title Matched***********
+16:46:58.424 [main] INFO  StepDef - ************Click on logout button***********
+16:46:59.317 [main] INFO  StepDef - ************Verify the login page title***********
+16:46:59.329 [main] INFO  StepDef - ************Title Matched***********
+16:46:59.331 [main] INFO  StepDef - ************Close the tab***********
+16:46:59.615 [main] INFO  StepDef - ************Close the entire browser***********
+16:46:59.657 [main] INFO  StepDef - ************Open the Browser***********
+16:47:00.498 [main] INFO  StepDef - ************Maximize the Browser***********
+16:47:00.552 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+16:47:03.731 [main] INFO  StepDef - ************Enter the Username***********
+16:47:04.217 [main] INFO  StepDef - ************Enter the password***********
+16:47:04.378 [main] INFO  StepDef - ************Click on login button***********
+16:47:09.496 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+16:47:09.496 [main] INFO  StepDef - ************Title Matched***********
+16:47:09.496 [main] INFO  StepDef - ************Click on PIM button***********
+16:47:10.343 [main] INFO  StepDef - ************Click on AddUser button***********
+16:47:11.196 [main] INFO  StepDef - ************Verify the PIM page title***********
+16:47:11.196 [main] INFO  StepDef - ************Title Matched***********
+16:47:11.198 [main] INFO  StepDef - ************Enter the First Name***********
+16:47:11.689 [main] INFO  StepDef - ************Enter the Lat Name***********
+16:47:12.104 [main] INFO  StepDef - ************Enter the Employee ID***********
+16:47:12.199 [main] INFO  StepDef - ************Click on save1 button***********
+16:47:15.339 [main] INFO  StepDef - ************Verify the PIM page title***********
+16:47:15.339 [main] INFO  StepDef - ************Title Matched***********
+16:47:15.340 [main] INFO  StepDef - ************Enter the User Driving Licence Number***********
+16:47:15.580 [main] INFO  StepDef - ************Click on save2 button***********
+16:47:18.376 [main] INFO  StepDef - ************Close the entire browser***********
+16:47:18.714 [main] INFO  StepDef - ************Open the Browser***********
+16:47:19.522 [main] INFO  StepDef - ************Maximize the Browser***********
+16:47:19.579 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+16:47:25.128 [main] INFO  StepDef - ************Enter the Username***********
+16:47:25.667 [main] INFO  StepDef - ************Enter the password***********
+16:47:25.842 [main] INFO  StepDef - ************Click on login button***********
+16:47:30.950 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+16:47:30.951 [main] INFO  StepDef - ************Title Matched***********
+16:47:30.952 [main] INFO  StepDef - ************Click on PIM button***********
+16:47:31.867 [main] INFO  StepDef - ************Click on user List button***********
+16:47:32.816 [main] INFO  StepDef - ************Verify the PIM page title***********
+16:47:32.818 [main] INFO  StepDef - ************Title Matched***********
+16:47:33.822 [main] INFO  StepDef - ************Enter the user id for search***********
+16:47:34.989 [main] INFO  StepDef - ************Click on the search button***********
+16:48:34.517 [main] INFO  StepDef - ************Open the Browser***********
+16:48:35.340 [main] INFO  StepDef - ************Maximize the Browser***********
+16:48:35.406 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+16:48:38.717 [main] INFO  StepDef - ************Enter the Username***********
+16:48:39.221 [main] INFO  StepDef - ************Enter the password***********
+16:48:39.373 [main] INFO  StepDef - ************Click on login button***********
+16:48:44.485 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+16:48:44.485 [main] INFO  StepDef - ************Title Matched***********
+16:48:44.485 [main] INFO  StepDef - ************Click on PIM button***********
+16:48:45.366 [main] INFO  StepDef - ************Click on user List button***********
+16:48:46.247 [main] INFO  StepDef - ************Verify the PIM page title***********
+16:48:46.247 [main] INFO  StepDef - ************Title Matched***********
+16:48:46.249 [main] INFO  StepDef - ************Enter the user first name for search***********
+16:48:46.686 [main] INFO  StepDef - ************Click on the search button***********
+16:48:50.828 [main] INFO  StepDef - ************Verify the User ID***********
+16:48:50.830 [main] WARN  StepDef - ************User ID did not Matched***********
+16:48:50.970 [main] INFO  StepDef - ************Close the entire browser***********
+16:50:16.960 [main] INFO  StepDef - ************Open the Browser***********
+16:50:18.192 [main] INFO  StepDef - ************Maximize the Browser***********
+16:50:18.297 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+16:50:21.553 [main] INFO  StepDef - ************Enter the Username***********
+16:50:22.029 [main] INFO  StepDef - ************Enter the password***********
+16:50:22.154 [main] INFO  StepDef - ************Click on login button***********
+16:50:28.343 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+16:50:28.343 [main] INFO  StepDef - ************Title Matched***********
+16:50:28.357 [main] INFO  StepDef - ************Click on logout button***********
+16:50:29.288 [main] INFO  StepDef - ************Verify the login page title***********
+16:50:29.296 [main] INFO  StepDef - ************Title Matched***********
+16:50:29.297 [main] INFO  StepDef - ************Close the tab***********
+16:50:29.626 [main] INFO  StepDef - ************Close the entire browser***********
+16:50:29.660 [main] INFO  StepDef - ************Open the Browser***********
+16:50:30.466 [main] INFO  StepDef - ************Maximize the Browser***********
+16:50:30.512 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+16:50:33.325 [main] INFO  StepDef - ************Enter the Username***********
+16:50:33.800 [main] INFO  StepDef - ************Enter the password***********
+16:50:33.935 [main] INFO  StepDef - ************Click on login button***********
+16:50:39.016 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+16:50:39.016 [main] INFO  StepDef - ************Title Matched***********
+16:50:39.016 [main] INFO  StepDef - ************Click on PIM button***********
+16:50:39.858 [main] INFO  StepDef - ************Click on AddUser button***********
+16:50:40.855 [main] INFO  StepDef - ************Verify the PIM page title***********
+16:50:40.855 [main] INFO  StepDef - ************Title Matched***********
+16:50:40.856 [main] INFO  StepDef - ************Enter the First Name***********
+16:50:41.824 [main] INFO  StepDef - ************Enter the Lat Name***********
+16:50:42.496 [main] INFO  StepDef - ************Enter the Employee ID***********
+16:50:42.601 [main] INFO  StepDef - ************Click on save1 button***********
+16:50:45.730 [main] INFO  StepDef - ************Verify the PIM page title***********
+16:50:45.740 [main] INFO  StepDef - ************Title Matched***********
+16:50:45.740 [main] INFO  StepDef - ************Enter the User Driving Licence Number***********
+16:50:45.865 [main] INFO  StepDef - ************Click on save2 button***********
+16:50:53.146 [main] INFO  StepDef - ************Verify the PIM page title***********
+16:50:53.146 [main] INFO  StepDef - ************Username Matched***********
+16:50:53.155 [main] INFO  StepDef - ************Close the tab***********
+16:50:53.424 [main] INFO  StepDef - ************Close the entire browser***********
+16:50:53.443 [main] INFO  StepDef - ************Open the Browser***********
+16:50:54.282 [main] INFO  StepDef - ************Maximize the Browser***********
+16:50:54.330 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+16:50:57.710 [main] INFO  StepDef - ************Enter the Username***********
+16:50:58.190 [main] INFO  StepDef - ************Enter the password***********
+16:50:58.344 [main] INFO  StepDef - ************Click on login button***********
+16:51:03.483 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+16:51:03.489 [main] INFO  StepDef - ************Title Matched***********
+16:51:03.489 [main] INFO  StepDef - ************Click on PIM button***********
+16:51:04.464 [main] INFO  StepDef - ************Click on user List button***********
+16:51:05.354 [main] INFO  StepDef - ************Verify the PIM page title***********
+16:51:05.354 [main] INFO  StepDef - ************Title Matched***********
+16:51:06.355 [main] INFO  StepDef - ************Enter the user id for search***********
+16:51:07.452 [main] INFO  StepDef - ************Click on the search button***********
+16:51:11.586 [main] INFO  StepDef - ************Verify the User ID***********
+16:51:11.586 [main] INFO  StepDef - ************User ID Matched***********
+16:51:11.586 [main] INFO  StepDef - ************Close the tab***********
+16:51:11.903 [main] INFO  StepDef - ************Close the entire browser***********
+16:51:11.915 [main] INFO  StepDef - ************Open the Browser***********
+16:51:12.752 [main] INFO  StepDef - ************Maximize the Browser***********
+16:51:12.810 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+16:51:15.615 [main] INFO  StepDef - ************Enter the Username***********
+16:51:16.064 [main] INFO  StepDef - ************Enter the password***********
+16:51:16.220 [main] INFO  StepDef - ************Click on login button***********
+16:51:21.324 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+16:51:21.324 [main] INFO  StepDef - ************Title Matched***********
+16:51:21.324 [main] INFO  StepDef - ************Click on PIM button***********
+16:51:22.079 [main] INFO  StepDef - ************Click on user List button***********
+16:51:22.905 [main] INFO  StepDef - ************Verify the PIM page title***********
+16:51:22.905 [main] INFO  StepDef - ************Title Matched***********
+16:51:22.907 [main] INFO  StepDef - ************Enter the user first name for search***********
+16:51:23.328 [main] INFO  StepDef - ************Click on the search button***********
+16:51:27.491 [main] INFO  StepDef - ************Verify the User ID***********
+16:51:27.491 [main] INFO  StepDef - ************User ID Matched***********
+16:51:27.491 [main] INFO  StepDef - ************Close the tab***********
+16:51:27.828 [main] INFO  StepDef - ************Close the entire browser***********
+18:35:52.646 [main] INFO  StepDef - ************Open the Browser***********
+18:35:53.840 [main] INFO  StepDef - ************Maximize the Browser***********
+18:35:53.969 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+18:35:56.922 [main] INFO  StepDef - ************Enter the Username***********
+18:35:57.364 [main] INFO  StepDef - ************Enter the password***********
+18:35:57.437 [main] INFO  StepDef - ************Click on login button***********
+18:36:02.527 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+18:36:02.527 [main] INFO  StepDef - ************Title Matched***********
+18:36:02.535 [main] INFO  StepDef - ************Click on logout button***********
+18:36:03.550 [main] INFO  StepDef - ************Verify the login page title***********
+18:36:03.563 [main] INFO  StepDef - ************Title Matched***********
+18:36:03.568 [main] INFO  StepDef - ************Close the tab***********
+18:36:03.869 [main] INFO  StepDef - ************Close the entire browser***********
+18:36:03.925 [main] INFO  StepDef - ************Open the Browser***********
+18:36:04.731 [main] INFO  StepDef - ************Maximize the Browser***********
+18:36:04.781 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+18:36:07.897 [main] INFO  StepDef - ************Enter the Username***********
+18:36:08.339 [main] INFO  StepDef - ************Enter the password***********
+18:36:08.427 [main] INFO  StepDef - ************Click on login button***********
+18:36:13.487 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+18:36:13.487 [main] INFO  StepDef - ************Title Matched***********
+18:36:13.497 [main] INFO  StepDef - ************Click on PIM button***********
+18:36:14.330 [main] INFO  StepDef - ************Click on AddUser button***********
+18:36:15.207 [main] INFO  StepDef - ************Verify the PIM page title***********
+18:36:15.207 [main] INFO  StepDef - ************Title Matched***********
+18:36:15.207 [main] INFO  StepDef - ************Enter the First Name***********
+18:36:15.624 [main] INFO  StepDef - ************Enter the Lat Name***********
+18:36:16.071 [main] INFO  StepDef - ************Enter the Employee ID***********
+18:36:16.116 [main] INFO  StepDef - ************Click on save1 button***********
+18:36:19.209 [main] INFO  StepDef - ************Verify the PIM page title***********
+18:36:19.209 [main] INFO  StepDef - ************Title Matched***********
+18:36:19.209 [main] INFO  StepDef - ************Enter the User Driving Licence Number***********
+18:36:19.370 [main] INFO  StepDef - ************Click on save2 button***********
+18:36:26.747 [main] INFO  StepDef - ************Verify the PIM page title***********
+18:36:26.747 [main] INFO  StepDef - ************Username Matched***********
+18:36:26.747 [main] INFO  StepDef - ************Close the tab***********
+18:36:27.009 [main] INFO  StepDef - ************Close the entire browser***********
+18:36:27.018 [main] INFO  StepDef - ************Open the Browser***********
+18:36:27.787 [main] INFO  StepDef - ************Maximize the Browser***********
+18:36:27.839 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+18:36:30.552 [main] INFO  StepDef - ************Enter the Username***********
+18:36:30.985 [main] INFO  StepDef - ************Enter the password***********
+18:36:31.055 [main] INFO  StepDef - ************Click on login button***********
+18:36:37.137 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+18:36:37.137 [main] INFO  StepDef - ************Title Matched***********
+18:36:37.137 [main] INFO  StepDef - ************Click on PIM button***********
+18:36:37.892 [main] INFO  StepDef - ************Click on user List button***********
+18:36:38.743 [main] INFO  StepDef - ************Verify the PIM page title***********
+18:36:38.743 [main] INFO  StepDef - ************Title Matched***********
+18:36:39.752 [main] INFO  StepDef - ************Enter the user id for search***********
+18:36:40.832 [main] INFO  StepDef - ************Click on the search button***********
+18:36:44.953 [main] INFO  StepDef - ************Verify the User ID***********
+18:36:44.953 [main] INFO  StepDef - ************User ID Matched***********
+18:36:44.953 [main] INFO  StepDef - ************Close the tab***********
+18:36:45.117 [main] INFO  StepDef - ************Close the entire browser***********
+18:36:45.117 [main] INFO  StepDef - ************Open the Browser***********
+18:36:45.956 [main] INFO  StepDef - ************Maximize the Browser***********
+18:36:45.995 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+18:36:48.813 [main] INFO  StepDef - ************Enter the Username***********
+18:36:49.258 [main] INFO  StepDef - ************Enter the password***********
+18:36:49.326 [main] INFO  StepDef - ************Click on login button***********
+18:36:54.399 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+18:36:54.399 [main] INFO  StepDef - ************Title Matched***********
+18:36:54.399 [main] INFO  StepDef - ************Click on PIM button***********
+18:36:55.155 [main] INFO  StepDef - ************Click on user List button***********
+18:36:55.981 [main] INFO  StepDef - ************Verify the PIM page title***********
+18:36:55.981 [main] INFO  StepDef - ************Title Matched***********
+18:36:55.982 [main] INFO  StepDef - ************Enter the user first name for search***********
+18:36:56.357 [main] INFO  StepDef - ************Click on the search button***********
+18:37:00.476 [main] INFO  StepDef - ************Verify the User ID***********
+18:37:00.476 [main] INFO  StepDef - ************User ID Matched***********
+18:37:00.476 [main] INFO  StepDef - ************Close the tab***********
+18:37:00.669 [main] INFO  StepDef - ************Close the entire browser***********
+18:37:23.533 [main] INFO  StepDef - ************Open the Browser***********
+18:37:24.695 [main] INFO  StepDef - ************Maximize the Browser***********
+18:37:24.797 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+18:37:27.302 [main] INFO  StepDef - ************Enter the Username***********
+18:37:27.736 [main] INFO  StepDef - ************Enter the password***********
+18:37:27.809 [main] INFO  StepDef - ************Click on login button***********
+18:37:32.869 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+18:37:32.869 [main] INFO  StepDef - ************Title Matched***********
+18:37:32.877 [main] INFO  StepDef - ************Click on logout button***********
+18:37:33.879 [main] INFO  StepDef - ************Verify the login page title***********
+18:37:33.893 [main] INFO  StepDef - ************Title Matched***********
+18:37:33.895 [main] INFO  StepDef - ************Close the tab***********
+18:37:34.154 [main] INFO  StepDef - ************Close the entire browser***********
+18:37:34.178 [main] INFO  StepDef - ************Open the Browser***********
+18:37:35.041 [main] INFO  StepDef - ************Maximize the Browser***********
+18:37:35.107 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+18:37:37.937 [main] INFO  StepDef - ************Enter the Username***********
+18:37:38.379 [main] INFO  StepDef - ************Enter the password***********
+18:37:38.456 [main] INFO  StepDef - ************Click on login button***********
+18:37:43.537 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+18:37:43.539 [main] INFO  StepDef - ************Title Matched***********
+18:37:43.539 [main] INFO  StepDef - ************Click on PIM button***********
+18:37:44.398 [main] INFO  StepDef - ************Click on AddUser button***********
+18:37:45.275 [main] INFO  StepDef - ************Verify the PIM page title***********
+18:37:45.275 [main] INFO  StepDef - ************Title Matched***********
+18:37:45.275 [main] INFO  StepDef - ************Enter the First Name***********
+18:37:45.681 [main] INFO  StepDef - ************Enter the Lat Name***********
+18:37:46.128 [main] INFO  StepDef - ************Enter the Employee ID***********
+18:37:46.176 [main] INFO  StepDef - ************Click on save1 button***********
+18:37:49.242 [main] INFO  StepDef - ************Verify the PIM page title***********
+18:37:49.242 [main] INFO  StepDef - ************Title Matched***********
+18:37:49.242 [main] INFO  StepDef - ************Enter the User Driving Licence Number***********
+18:37:49.329 [main] INFO  StepDef - ************Click on save2 button***********
+18:37:56.526 [main] INFO  StepDef - ************Verify the PIM page title***********
+18:37:56.526 [main] INFO  StepDef - ************Username Matched***********
+18:37:56.526 [main] INFO  StepDef - ************Close the tab***********
+18:37:56.704 [main] INFO  StepDef - ************Close the entire browser***********
+18:37:56.714 [main] INFO  StepDef - ************Open the Browser***********
+18:37:57.473 [main] INFO  StepDef - ************Maximize the Browser***********
+18:37:57.522 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+18:38:00.740 [main] INFO  StepDef - ************Enter the Username***********
+18:38:01.158 [main] INFO  StepDef - ************Enter the password***********
+18:38:01.236 [main] INFO  StepDef - ************Click on login button***********
+18:38:06.296 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+18:38:06.296 [main] INFO  StepDef - ************Title Matched***********
+18:38:06.298 [main] INFO  StepDef - ************Click on PIM button***********
+18:38:07.136 [main] INFO  StepDef - ************Click on user List button***********
+18:38:08.145 [main] INFO  StepDef - ************Verify the PIM page title***********
+18:38:08.145 [main] INFO  StepDef - ************Title Matched***********
+18:38:09.149 [main] INFO  StepDef - ************Enter the user id for search***********
+18:38:10.236 [main] INFO  StepDef - ************Click on the search button***********
+18:38:14.399 [main] INFO  StepDef - ************Verify the User ID***********
+18:38:14.399 [main] INFO  StepDef - ************User ID Matched***********
+18:38:14.399 [main] INFO  StepDef - ************Close the tab***********
+18:38:14.601 [main] INFO  StepDef - ************Close the entire browser***********
+18:38:14.611 [main] INFO  StepDef - ************Open the Browser***********
+18:38:15.368 [main] INFO  StepDef - ************Maximize the Browser***********
+18:38:15.411 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+18:38:19.542 [main] INFO  StepDef - ************Enter the Username***********
+18:38:19.999 [main] INFO  StepDef - ************Enter the password***********
+18:38:20.071 [main] INFO  StepDef - ************Click on login button***********
+18:38:25.143 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+18:38:25.143 [main] INFO  StepDef - ************Title Matched***********
+18:38:25.145 [main] INFO  StepDef - ************Click on PIM button***********
+18:38:25.979 [main] INFO  StepDef - ************Click on user List button***********
+18:38:27.030 [main] INFO  StepDef - ************Verify the PIM page title***********
+18:38:27.031 [main] INFO  StepDef - ************Title Matched***********
+18:38:27.031 [main] INFO  StepDef - ************Enter the user first name for search***********
+18:38:27.491 [main] INFO  StepDef - ************Click on the search button***********
+18:38:31.596 [main] INFO  StepDef - ************Verify the User ID***********
+18:38:31.596 [main] INFO  StepDef - ************User ID Matched***********
+18:38:31.596 [main] INFO  StepDef - ************Close the tab***********
+18:38:31.788 [main] INFO  StepDef - ************Close the entire browser***********
+19:04:16.455 [main] INFO  StepDef - ************Open the Browser***********
+19:04:17.573 [main] INFO  StepDef - ************Maximize the Browser***********
+19:04:17.675 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+19:04:20.669 [main] INFO  StepDef - ************Enter the Username***********
+19:04:21.108 [main] INFO  StepDef - ************Enter the password***********
+19:04:21.184 [main] INFO  StepDef - ************Click on login button***********
+19:04:26.263 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+19:04:26.263 [main] INFO  StepDef - ************Title Matched***********
+19:04:26.268 [main] INFO  StepDef - ************Click on logout button***********
+19:04:27.301 [main] INFO  StepDef - ************Verify the login page title***********
+19:04:27.312 [main] INFO  StepDef - ************Title Matched***********
+19:04:27.314 [main] INFO  StepDef - ************Close the tab***********
+19:04:27.400 [main] INFO  StepDef - ************Close the entire browser***********
+19:04:46.757 [main] INFO  StepDef - ************Open the Browser***********
+19:04:47.890 [main] INFO  StepDef - ************Maximize the Browser***********
+19:04:47.999 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+19:04:50.750 [main] INFO  StepDef - ************Enter the Username***********
+19:04:51.171 [main] INFO  StepDef - ************Enter the password***********
+19:04:51.244 [main] INFO  StepDef - ************Click on login button***********
+19:04:56.317 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+19:04:56.317 [main] INFO  StepDef - ************Title Matched***********
+19:04:56.320 [main] INFO  StepDef - ************Click on logout button***********
+19:04:57.229 [main] INFO  StepDef - ************Verify the login page title***********
+19:04:57.243 [main] INFO  StepDef - ************Title Matched***********
+19:04:57.245 [main] INFO  StepDef - ************Close the tab***********
+19:04:57.331 [main] INFO  StepDef - ************Close the entire browser***********
+19:04:57.505 [main] INFO  StepDef - ************Open the Browser***********
+19:04:58.288 [main] INFO  StepDef - ************Maximize the Browser***********
+19:04:58.335 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+19:05:00.954 [main] INFO  StepDef - ************Enter the Username***********
+19:05:01.398 [main] INFO  StepDef - ************Enter the password***********
+19:05:01.484 [main] INFO  StepDef - ************Click on login button***********
+19:05:06.559 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+19:05:06.559 [main] INFO  StepDef - ************Title Matched***********
+19:05:06.559 [main] INFO  StepDef - ************Click on PIM button***********
+19:05:07.433 [main] INFO  StepDef - ************Click on AddUser button***********
+19:05:08.369 [main] INFO  StepDef - ************Verify the PIM page title***********
+19:05:08.369 [main] INFO  StepDef - ************Title Matched***********
+19:05:08.370 [main] INFO  StepDef - ************Enter the First Name***********
+19:05:08.819 [main] INFO  StepDef - ************Enter the Lat Name***********
+19:05:09.204 [main] INFO  StepDef - ************Enter the Employee ID***********
+19:05:09.254 [main] INFO  StepDef - ************Click on save1 button***********
+19:05:12.345 [main] INFO  StepDef - ************Verify the PIM page title***********
+19:05:12.345 [main] INFO  StepDef - ************Title Matched***********
+19:05:12.345 [main] INFO  StepDef - ************Enter the User Driving Licence Number***********
+19:05:12.481 [main] INFO  StepDef - ************Click on save2 button***********
+19:05:15.723 [main] INFO  StepDef - ************Close the entire browser***********
+19:05:15.903 [main] INFO  StepDef - ************Open the Browser***********
+19:05:16.646 [main] INFO  StepDef - ************Maximize the Browser***********
+19:05:16.681 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+19:05:19.486 [main] INFO  StepDef - ************Enter the Username***********
+19:05:19.901 [main] INFO  StepDef - ************Enter the password***********
+19:05:20.015 [main] INFO  StepDef - ************Click on login button***********
+19:05:25.080 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+19:05:25.080 [main] INFO  StepDef - ************Title Matched***********
+19:05:25.080 [main] INFO  StepDef - ************Click on PIM button***********
+19:05:26.003 [main] INFO  StepDef - ************Click on user List button***********
+19:05:26.858 [main] INFO  StepDef - ************Verify the PIM page title***********
+19:05:26.858 [main] INFO  StepDef - ************Title Matched***********
+19:05:27.864 [main] INFO  StepDef - ************Enter the user id for search***********
+19:05:28.922 [main] INFO  StepDef - ************Click on the search button***********
+19:06:07.512 [main] INFO  StepDef - ************Open the Browser***********
+19:06:08.359 [main] INFO  StepDef - ************Maximize the Browser***********
+19:06:08.418 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+19:06:11.239 [main] INFO  StepDef - ************Enter the Username***********
+19:06:11.673 [main] INFO  StepDef - ************Enter the password***********
+19:06:11.800 [main] INFO  StepDef - ************Click on login button***********
+19:06:16.876 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+19:06:16.876 [main] INFO  StepDef - ************Title Matched***********
+19:06:16.877 [main] INFO  StepDef - ************Click on PIM button***********
+19:06:17.737 [main] INFO  StepDef - ************Click on user List button***********
+19:06:18.701 [main] INFO  StepDef - ************Verify the PIM page title***********
+19:06:18.701 [main] INFO  StepDef - ************Title Matched***********
+19:06:18.702 [main] INFO  StepDef - ************Enter the user first name for search***********
+19:06:19.141 [main] INFO  StepDef - ************Click on the search button***********
+19:06:23.310 [main] INFO  StepDef - ************Verify the User ID***********
+19:06:23.310 [main] WARN  StepDef - ************User ID did not Matched***********
+19:06:23.439 [main] INFO  StepDef - ************Close the entire browser***********
+19:08:07.858 [main] INFO  StepDef - ************Open the Browser***********
+19:08:08.941 [main] INFO  StepDef - ************Maximize the Browser***********
+19:08:09.033 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+19:08:12.228 [main] INFO  StepDef - ************Enter the Username***********
+19:08:12.670 [main] INFO  StepDef - ************Enter the password***********
+19:08:12.743 [main] INFO  StepDef - ************Click on login button***********
+19:08:17.812 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+19:08:17.812 [main] INFO  StepDef - ************Title Matched***********
+19:08:17.812 [main] INFO  StepDef - ************Click on logout button***********
+19:08:18.921 [main] INFO  StepDef - ************Verify the login page title***********
+19:08:18.931 [main] INFO  StepDef - ************Title Matched***********
+19:08:18.933 [main] INFO  StepDef - ************Close the tab***********
+19:08:19.038 [main] INFO  StepDef - ************Close the entire browser***********
+19:08:19.202 [main] INFO  StepDef - ************Open the Browser***********
+19:08:20.040 [main] INFO  StepDef - ************Maximize the Browser***********
+19:08:20.094 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+19:08:22.780 [main] INFO  StepDef - ************Enter the Username***********
+19:08:23.236 [main] INFO  StepDef - ************Enter the password***********
+19:08:23.365 [main] INFO  StepDef - ************Click on login button***********
+19:08:28.445 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+19:08:28.449 [main] INFO  StepDef - ************Title Matched***********
+19:08:28.449 [main] INFO  StepDef - ************Click on PIM button***********
+19:08:29.364 [main] INFO  StepDef - ************Click on AddUser button***********
+19:08:30.270 [main] INFO  StepDef - ************Verify the PIM page title***********
+19:08:30.270 [main] INFO  StepDef - ************Title Matched***********
+19:08:30.271 [main] INFO  StepDef - ************Enter the First Name***********
+19:08:30.686 [main] INFO  StepDef - ************Enter the Lat Name***********
+19:08:31.062 [main] INFO  StepDef - ************Enter the Employee ID***********
+19:08:31.117 [main] INFO  StepDef - ************Click on save1 button***********
+19:08:34.165 [main] INFO  StepDef - ************Verify the PIM page title***********
+19:08:34.165 [main] INFO  StepDef - ************Title Matched***********
+19:08:34.165 [main] INFO  StepDef - ************Enter the User Driving Licence Number***********
+19:08:34.273 [main] INFO  StepDef - ************Click on save2 button***********
+19:08:41.597 [main] INFO  StepDef - ************Verify the PIM page title***********
+19:08:41.597 [main] INFO  StepDef - ************Username Matched***********
+19:08:41.597 [main] INFO  StepDef - ************Close the tab***********
+19:08:41.684 [main] INFO  StepDef - ************Close the entire browser***********
+19:08:41.798 [main] INFO  StepDef - ************Open the Browser***********
+19:08:42.574 [main] INFO  StepDef - ************Maximize the Browser***********
+19:08:42.614 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+19:08:45.048 [main] INFO  StepDef - ************Enter the Username***********
+19:08:45.506 [main] INFO  StepDef - ************Enter the password***********
+19:08:45.585 [main] INFO  StepDef - ************Click on login button***********
+19:08:51.907 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+19:08:51.907 [main] INFO  StepDef - ************Title Matched***********
+19:08:51.910 [main] INFO  StepDef - ************Click on PIM button***********
+19:08:52.762 [main] INFO  StepDef - ************Click on user List button***********
+19:08:53.663 [main] INFO  StepDef - ************Verify the PIM page title***********
+19:08:53.663 [main] INFO  StepDef - ************Title Matched***********
+19:08:54.671 [main] INFO  StepDef - ************Enter the user id for search***********
+19:08:55.775 [main] INFO  StepDef - ************Click on the search button***********
+19:08:59.864 [main] INFO  StepDef - ************Verify the User ID***********
+19:08:59.864 [main] INFO  StepDef - ************User ID Matched***********
+19:08:59.864 [main] INFO  StepDef - ************Close the tab***********
+19:08:59.938 [main] INFO  StepDef - ************Close the entire browser***********
+19:09:00.040 [main] INFO  StepDef - ************Open the Browser***********
+19:09:00.827 [main] INFO  StepDef - ************Maximize the Browser***********
+19:09:00.866 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+19:09:06.651 [main] INFO  StepDef - ************Enter the Username***********
+19:09:07.073 [main] INFO  StepDef - ************Enter the password***********
+19:09:07.158 [main] INFO  StepDef - ************Click on login button***********
+19:09:12.224 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+19:09:12.224 [main] INFO  StepDef - ************Title Matched***********
+19:09:12.224 [main] INFO  StepDef - ************Click on PIM button***********
+19:09:12.979 [main] INFO  StepDef - ************Click on user List button***********
+19:09:13.866 [main] INFO  StepDef - ************Verify the PIM page title***********
+19:09:13.866 [main] INFO  StepDef - ************Title Matched***********
+19:09:13.867 [main] INFO  StepDef - ************Enter the user first name for search***********
+19:09:14.293 [main] INFO  StepDef - ************Click on the search button***********
+19:09:18.390 [main] INFO  StepDef - ************Verify the User ID***********
+19:09:18.390 [main] INFO  StepDef - ************User ID Matched***********
+19:09:18.390 [main] INFO  StepDef - ************Close the tab***********
+19:09:18.507 [main] INFO  StepDef - ************Close the entire browser***********
+22:42:14.808 [main] INFO  StepDef - ************Open the Browser***********
+22:42:18.051 [main] INFO  StepDef - ************Maximize the Browser***********
+22:42:18.320 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+22:42:25.533 [main] INFO  StepDef - ************Enter the Username***********
+22:42:26.280 [main] INFO  StepDef - ************Enter the password***********
+22:42:26.607 [main] INFO  StepDef - ************Click on login button***********
+22:42:31.933 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+22:42:31.933 [main] INFO  StepDef - ************Title Matched***********
+22:42:32.093 [main] INFO  StepDef - ************Click on logout button***********
+22:42:33.293 [main] INFO  StepDef - ************Verify the login page title***********
+22:42:33.310 [main] INFO  StepDef - ************Title Matched***********
+22:42:33.433 [main] INFO  StepDef - ************Close the tab***********
+22:44:57.494 [main] INFO  StepDef - ************Open the Browser***********
+22:44:58.784 [main] INFO  StepDef - ************Maximize the Browser***********
+22:44:59.040 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+22:45:03.952 [main] INFO  StepDef - ************Enter the Username***********
+22:45:04.672 [main] INFO  StepDef - ************Enter the password***********
+22:45:04.959 [main] INFO  StepDef - ************Click on login button***********
+22:45:10.280 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+22:45:10.286 [main] INFO  StepDef - ************Title Matched***********
+22:45:10.456 [main] INFO  StepDef - ************Click on logout button***********
+22:45:11.695 [main] INFO  StepDef - ************Verify the login page title***********
+22:45:11.711 [main] INFO  StepDef - ************Title Matched***********
+22:45:11.827 [main] INFO  StepDef - ************Close the tab***********
+22:47:00.648 [main] INFO  StepDef - ************Open the Browser***********
+22:47:02.157 [main] INFO  StepDef - ************Maximize the Browser***********
+22:47:02.269 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+22:47:08.335 [main] INFO  StepDef - ************Enter the Username***********
+22:47:09.189 [main] INFO  StepDef - ************Enter the password***********
+22:47:09.344 [main] INFO  StepDef - ************Click on login button***********
+22:47:14.488 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+22:47:14.488 [main] INFO  StepDef - ************Title Matched***********
+22:47:14.493 [main] INFO  StepDef - ************Click on logout button***********
+22:47:15.492 [main] INFO  StepDef - ************Verify the login page title***********
+22:47:15.499 [main] INFO  StepDef - ************Title Matched***********
+22:47:15.499 [main] INFO  StepDef - ************Close the tab***********
+22:47:15.624 [main] INFO  StepDef - ************Close the entire browser***********
+22:47:48.272 [main] INFO  StepDef - ************Open the Browser***********
+22:47:49.506 [main] INFO  StepDef - ************Maximize the Browser***********
+22:47:49.630 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+22:47:56.121 [main] INFO  StepDef - ************Enter the Username***********
+22:47:57.451 [main] INFO  StepDef - ************Enter the password***********
+22:47:57.656 [main] INFO  StepDef - ************Click on login button***********
+22:48:02.803 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+22:48:02.803 [main] INFO  StepDef - ************Title Matched***********
+22:48:02.807 [main] INFO  StepDef - ************Click on logout button***********
+22:48:03.973 [main] INFO  StepDef - ************Verify the login page title***********
+22:48:03.989 [main] INFO  StepDef - ************Title Matched***********
+22:48:03.989 [main] INFO  StepDef - ************Close the tab***********
+22:48:04.317 [main] INFO  StepDef - ************Close the entire browser***********
+23:32:14.187 [main] INFO  StepDef - ************Open the Browser***********
+23:32:15.435 [main] INFO  StepDef - ************Maximize the Browser***********
+23:32:15.680 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+23:32:21.186 [main] INFO  StepDef - ************Enter the Username***********
+23:32:22.485 [main] INFO  StepDef - ************Enter the password***********
+23:32:22.728 [main] INFO  StepDef - ************Click on login button***********
+23:32:27.984 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+23:32:27.984 [main] INFO  StepDef - ************Title Matched***********
+23:32:28.138 [main] INFO  StepDef - ************Click on logout button***********
+23:32:29.371 [main] INFO  StepDef - ************Verify the login page title***********
+23:32:29.385 [main] INFO  StepDef - ************Title Matched***********
+23:32:29.492 [main] INFO  StepDef - ************Close the tab***********
+23:33:15.951 [main] INFO  StepDef - ************Open the Browser***********
+23:33:17.169 [main] INFO  StepDef - ************Maximize the Browser***********
+23:33:17.392 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+23:33:23.335 [main] INFO  StepDef - ************Enter the Username***********
+23:33:24.335 [main] INFO  StepDef - ************Enter the password***********
+23:33:24.643 [main] INFO  StepDef - ************Click on login button***********
+23:33:29.925 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+23:33:29.925 [main] INFO  StepDef - ************Title Matched***********
+23:33:30.068 [main] INFO  StepDef - ************Click on logout button***********
+23:33:31.335 [main] INFO  StepDef - ************Verify the login page title***********
+23:33:31.351 [main] INFO  StepDef - ************Title Matched***********
+23:33:31.477 [main] INFO  StepDef - ************Close the tab***********
+23:35:25.147 [main] INFO  StepDef - ************Open the Browser***********
+23:35:26.371 [main] INFO  StepDef - ************Maximize the Browser***********
+23:35:26.603 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+23:35:32.977 [main] INFO  StepDef - ************Enter the Username***********
+23:35:33.692 [main] INFO  StepDef - ************Enter the password***********
+23:35:34.031 [main] INFO  StepDef - ************Click on login button***********
+23:35:41.937 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+23:35:41.937 [main] INFO  StepDef - ************Title Matched***********
+23:35:42.122 [main] INFO  StepDef - ************Click on logout button***********
+23:35:43.281 [main] INFO  StepDef - ************Verify the login page title***********
+23:35:43.292 [main] INFO  StepDef - ************Title Matched***********
+23:35:43.396 [main] INFO  StepDef - ************Close the tab***********
+23:41:50.379 [main] INFO  StepDef - ************Open the Browser***********
+23:41:51.838 [main] INFO  StepDef - ************Maximize the Browser***********
+23:41:52.014 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+23:41:58.824 [main] INFO  StepDef - ************Enter the Username***********
+23:41:59.672 [main] INFO  StepDef - ************Enter the password***********
+23:41:59.879 [main] INFO  StepDef - ************Click on login button***********
+23:42:06.159 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+23:42:06.159 [main] INFO  StepDef - ************Title Matched***********
+23:42:06.168 [main] INFO  StepDef - ************Click on logout button***********
+23:42:07.158 [main] INFO  StepDef - ************Verify the login page title***********
+23:42:07.168 [main] WARN  StepDef - ************Title did not Matched***********
+23:45:44.251 [main] INFO  StepDef - ************Open the Browser***********
+23:45:46.011 [main] INFO  StepDef - ************Maximize the Browser***********
+23:45:46.142 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+23:45:51.977 [main] INFO  StepDef - ************Enter the Username***********
+23:45:52.801 [main] INFO  StepDef - ************Enter the password***********
+23:45:52.984 [main] INFO  StepDef - ************Click on login button***********
+23:45:59.950 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+23:45:59.950 [main] INFO  StepDef - ************Title Matched***********
+23:45:59.959 [main] INFO  StepDef - ************Click on logout button***********
+23:46:00.986 [main] INFO  StepDef - ************Verify the login page title***********
+23:46:00.997 [main] WARN  StepDef - ************Title did not Matched***********
+23:46:01.138 [main] INFO  StepDef - ************Close the entire browser***********
+23:47:56.394 [main] INFO  StepDef - ************Open the Browser***********
+23:47:57.614 [main] INFO  StepDef - ************Maximize the Browser***********
+23:47:57.750 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+23:48:01.092 [main] INFO  StepDef - ************Enter the Username***********
+23:48:03.458 [main] INFO  StepDef - ************Enter the password***********
+23:48:03.569 [main] INFO  StepDef - ************Click on login button***********
+23:48:08.672 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+23:48:08.672 [main] INFO  StepDef - ************Title Matched***********
+23:48:10.688 [main] INFO  StepDef - ************Click on logout button***********
+23:48:11.828 [main] INFO  StepDef - ************Verify the login page title***********
+23:48:11.845 [main] WARN  StepDef - ************Title did not Matched***********
+23:48:12.022 [main] INFO  StepDef - ************Close the entire browser***********
+23:49:56.494 [main] INFO  StepDef - ************Open the Browser***********
+23:49:57.726 [main] INFO  StepDef - ************Maximize the Browser***********
+23:49:57.868 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+23:50:02.864 [main] INFO  StepDef - ************Enter the Username***********
+23:50:03.684 [main] INFO  StepDef - ************Enter the password***********
+23:50:03.823 [main] INFO  StepDef - ************Click on login button***********
+23:50:08.963 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+23:50:08.963 [main] INFO  StepDef - ************Title Matched***********
+23:50:08.972 [main] INFO  StepDef - ************Click on logout button***********
+23:50:10.103 [main] INFO  StepDef - ************Verify the login page title***********
+23:50:10.120 [main] WARN  StepDef - ************Title did not Matched***********
+23:50:10.278 [main] INFO  StepDef - ************Close the entire browser***********
+23:52:19.411 [main] INFO  StepDef - ************Open the Browser***********
+23:52:20.624 [main] INFO  StepDef - ************Maximize the Browser***********
+23:52:20.755 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+23:52:26.530 [main] INFO  StepDef - ************Enter the Username***********
+23:52:27.350 [main] INFO  StepDef - ************Enter the password***********
+23:52:27.505 [main] INFO  StepDef - ************Click on login button***********
+23:52:32.602 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+23:52:32.602 [main] INFO  StepDef - ************Title Matched***********
+23:52:32.620 [main] INFO  StepDef - ************Click on logout button***********
+23:52:33.573 [main] INFO  StepDef - ************Verify the login page title***********
+23:52:33.589 [main] INFO  StepDef - ************Title Matched***********
+23:52:33.589 [main] INFO  StepDef - ************Close the tab***********
+23:52:33.854 [main] INFO  StepDef - ************Close the entire browser***********
+23:52:33.877 [main] INFO  StepDef - ************Open the Browser***********
+23:52:34.651 [main] INFO  StepDef - ************Maximize the Browser***********
+23:52:34.693 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+23:52:41.091 [main] INFO  StepDef - ************Enter the Username***********
+23:52:42.002 [main] INFO  StepDef - ************Enter the password***********
+23:52:42.085 [main] INFO  StepDef - ************Click on login button***********
+23:52:47.168 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+23:52:47.168 [main] INFO  StepDef - ************Title Matched***********
+23:52:47.168 [main] INFO  StepDef - ************Click on logout button***********
+23:55:02.666 [main] INFO  StepDef - ************Open the Browser***********
+23:55:03.864 [main] INFO  StepDef - ************Maximize the Browser***********
+23:55:03.982 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+23:55:12.228 [main] INFO  StepDef - ************Enter the Username***********
+23:55:13.040 [main] INFO  StepDef - ************Enter the password***********
+23:55:13.228 [main] INFO  StepDef - ************Click on login button***********
+23:55:20.069 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+23:55:20.069 [main] INFO  StepDef - ************Title Matched***********
+23:55:20.075 [main] INFO  StepDef - ************Click on logout button***********
+23:56:28.114 [main] INFO  StepDef - ************Close the entire browser***********
+23:58:57.238 [main] INFO  StepDef - ************Open the Browser***********
+23:58:58.538 [main] INFO  StepDef - ************Maximize the Browser***********
+23:58:58.666 [main] INFO  StepDef - ************Launch the OrangeHRM url***********
+23:59:05.188 [main] INFO  StepDef - ************Enter the Username***********
+23:59:06.368 [main] INFO  StepDef - ************Enter the password***********
+23:59:06.568 [main] INFO  StepDef - ************Click on login button***********
+23:59:11.738 [main] INFO  StepDef - ************Verify the Dashboard page title***********
+23:59:11.738 [main] INFO  StepDef - ************Title Matched***********
+23:59:11.748 [main] INFO  StepDef - ************Click on logout button***********
+23:59:12.733 [main] INFO  StepDef - ************Verify the login page title***********
+23:59:12.752 [main] WARN  StepDef - ************Title did not Matched***********
+23:59:12.917 [main] INFO  StepDef - ************Close the entire browser***********
+23:59:13.193 [main] INFO  StepDef - ************Open the Browser***********
+23:59:14.006 [main] INFO  StepDef - ************Maximize the Browser***********

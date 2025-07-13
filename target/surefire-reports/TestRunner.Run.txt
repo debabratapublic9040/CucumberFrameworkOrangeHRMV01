@@ -1,0 +1,45 @@
+-------------------------------------------------------------------------------
+Test set: TestRunner.Run
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 28.06 s <<< FAILURE! -- in TestRunner.Run
+TestRunner.Run.runScenario["Add new employee", "AddEmployee"](2) -- Time elapsed: 9.713 s <<< FAILURE!
+org.openqa.selenium.NoSuchSessionException: 
+invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=138.0.7204.101)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [faf804cd7daef3bba17d81248efa4c0e, getTitle {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 138.0.7204.94 (545025748884..., userDataDir: C:\Users\g\AppData\Local\Te...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59564}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59564/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: faf804cd7daef3bba17d81248efa4c0e
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:622)
+	at org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:318)
+	at StepDefination.StepDef.dashboard_page_should_be_displayed_and_the_title_should_be(StepDef.java:141)
+	at ✽.Dashboard Page should be displayed and the Title should be "OrangeHRM"(file:///C:/Workspace/Workspace22052025/MyCucumberProjectV01/./Feature/002AddEmployee.feature:9)
+
+TestRunner.Run.runScenario["Search employee by employee id", "AddEmployee"](3) -- Time elapsed: 2.194 s <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.fail(Assert.java:96)
+	at StepDefination.StepDef.user_enters_username_as_and_password_as(StepDef.java:119)
+	at ✽.User enters UserName as "Admin" and Password as "admin123"(file:///C:/Workspace/Workspace22052025/MyCucumberProjectV01/./Feature/002AddEmployee.feature:7)
+
+TestRunner.Run.runScenario["Search employee by first name", "AddEmployee"](4) -- Time elapsed: 1.549 s <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.fail(Assert.java:96)
+	at StepDefination.StepDef.user_enters_username_as_and_password_as(StepDef.java:119)
+	at ✽.User enters UserName as "Admin" and Password as "admin123"(file:///C:/Workspace/Workspace22052025/MyCucumberProjectV01/./Feature/002AddEmployee.feature:7)
+
